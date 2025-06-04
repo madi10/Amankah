@@ -1,0 +1,18 @@
+Payload:
+  - DOMAIN-SUFFIX,corel.com
+  - DOMAIN-SUFFIX,www.corel.com
+  - DOMAIN-SUFFIX,apps.corel.com
+  - DOMAIN-SUFFIX,origin-mkt.corel.com
+  - DOMAIN-SUFFIX,discovery.corel.com
+  - DOMAIN-SUFFIX,product.corel.com
+  - DOMAIN-SUFFIX,mc.corel.com
+  - DOMAIN-SUFFIX,iws.corel.com
+  - DOMAIN-SUFFIX,hub.corel.com
+  - DOMAIN-SUFFIX,update.corel.com
+  - DOMAIN-SUFFIX,licensing.corel.com
+  - DOMAIN-SUFFIX,registration.corel.com
+  - DOMAIN-SUFFIX,content.corel.com
+  - DOMAIN-SUFFIX,store.corel.com
+  - DOMAIN-SUFFIX,am.corel.com
+  - DOMAIN-SUFFIX,sso.corel.com
+  - DOMAIN-SUFFIX,learn.corel.com
