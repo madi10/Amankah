@@ -1,10 +1,10 @@
+# Amankah/sumber/convert.py
 import glob
 import os
 
-# Direktori input (tempat file .txt berada)
-input_dir = "../path/"  # Relatif terhadap ~/Amankah/sumber/, menuju ~/Amankah/path/
-# Direktori output (tempat file .yaml akan disimpan)
-output_dir = "../path/"  # Bisa diubah ke direktori lain jika perlu
+# Direktori input dan output (relatif terhadap root repositori)
+input_dir = "path/"  # Direktori tempat file .txt berada
+output_dir = "path/"  # Direktori tempat file .yaml akan disimpan
 
 # Pastikan direktori output ada
 os.makedirs(output_dir, exist_ok=True)
@@ -14,8 +14,12 @@ txt_files = glob.glob(os.path.join(input_dir, "*.txt"))
 
 for txt_file in txt_files:
     # Baca isi file .txt
-    with open(txt_file, 'r') as input_file:
-        domains = input_file.readlines()
+    try:
+        with open(txt_file, 'r') as input_file:
+            domains = input_file.readlines()
+    except Exception as e:
+        print(f"Gagal membaca {txt_file}: {e}")
+        continue
 
     # Membersihkan whitespace dan baris kosong
     domains = [domain.strip() for domain in domains if domain.strip()]
@@ -32,6 +36,9 @@ for txt_file in txt_files:
     yaml_file = os.path.join(output_dir, os.path.basename(txt_file).replace(".txt", ".yaml"))
 
     # Simpan ke file .yaml
-    with open(yaml_file, 'w') as output_file:
-        output_file.write('\n'.join(yaml_lines))
-    print(f"Berhasil mengonversi {txt_file} menjadi {yaml_file}")
+    try:
+        with open(yaml_file, 'w') as output_file:
+            output_file.write('\n'.join(yaml_lines))
+        print(f"Berhasil mengonversi {txt_file} menjadi {yaml_file}")
+    except Exception as e:
+        print(f"Gagal menulis {yaml_file}: {e}")
