@@ -1,0 +1,37 @@
+name: Daily TXT to YAML Conversion
+
+on:
+  schedule:
+    - cron: '0 16 * * *'  # 00:00 WITA = 16:00 UTC
+  push:
+    branches:
+      - main  # Sesuaikan dengan branch utama kamu
+    paths:
+      - 'path/*.txt'  # Trigger saat file .txt di path/ diupdate
+  workflow_dispatch:  # Memungkinkan menjalankan workflow secara manual
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run conversion script
+        run: |
+          python sumber/convert.py
+
+- name: Commit and push changes
+  run: |
+    git config --global user.name "${{ secrets.AC_AMAN }}"
+    git config --global user.email "${{ secrets.AC_AJA }}"
+    git add path/*.yaml
+    git commit -m "Daily conversion of .txt to .yaml" || echo "No changes to commit"
+    git push
+  env:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
