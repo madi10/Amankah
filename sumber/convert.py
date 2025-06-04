@@ -3,8 +3,8 @@ import glob
 import os
 
 # Direktori input dan output (relatif terhadap root repositori)
-input_dir = "path/"  # Direktori tempat file .txt berada
-output_dir = "path/"  # Direktori tempat file .yaml akan disimpan
+input_dir = "host/"  # Direktori tempat file .txt berada
+output_dir = "host"  # Direktori tempat file .yaml akan disimpan
 
 # Pastikan direktori output ada
 os.makedirs(output_dir, exist_ok=True)
