@@ -29,8 +29,8 @@ for txt_file in txt_files:
         print(f"File {txt_file} kosong, dilewati.")
         continue
 
-    # Mengubah format ke DOMAIN-SUFFIX
-    yaml_lines = [f"  - DOMAIN-SUFFIX,{domain}" for domain in domains]
+    # Mengubah format ke DOMAIN-SUFFIX dengan header Payload
+    yaml_lines = ["Payload:"] + [f"    - DOMAIN-SUFFIX,{domain}" for domain in domains]
 
     # Tentukan nama file output (.yaml)
     yaml_file = os.path.join(output_dir, os.path.basename(txt_file).replace(".txt", ".yaml"))
