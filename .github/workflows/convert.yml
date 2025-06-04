@@ -2,7 +2,7 @@ name: Daily TXT to YAML Conversion
 
 on:
   schedule:
-    - cron: '* * * * *'  # Every minute for testing; change to '0 16 * * *' for 00:00 WITA (16:00 UTC)
+    - cron: '0 16 * * *'  # Every minute for testing; change to '0 16 * * *' for 00:00 WITA (16:00 UTC)
   push:
     branches:
       - main  # Sesuaikan dengan branch utama kamu
