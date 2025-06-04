@@ -4,41 +4,56 @@ import os
 
 # Direktori input dan output (relatif terhadap root repositori)
 input_dir = "host/"  # Direktori tempat file .txt berada
-output_dir = "host"  # Direktori tempat file .yaml akan disimpan
+output_dir = "host/"  # Direktori tempat file .yaml akan disimpan
+
+# Log untuk debugging
+print(f"Current working directory: {os.getcwd()}")
+print(f"Input directory: {os.path.abspath(input_dir)}")
+print(f"Output directory: {os.path.abspath(output_dir)}")
 
 # Pastikan direktori output ada
 os.makedirs(output_dir, exist_ok=True)
 
 # Cari semua file .txt di direktori input
 txt_files = glob.glob(os.path.join(input_dir, "*.txt"))
+print(f"Found .txt files: {txt_files}")
+
+if not txt_files:
+    print("No .txt files found in host/. Skipping conversion.")
+    exit(0)  # Exit gracefully to avoid failing the workflow
 
 for txt_file in txt_files:
     # Baca isi file .txt
     try:
         with open(txt_file, 'r') as input_file:
             domains = input_file.readlines()
+        print(f"Read {txt_file}: {domains}")
     except Exception as e:
-        print(f"Gagal membaca {txt_file}: {e}")
+        print(f"Failed to read {txt_file}: {e}")
         continue
 
     # Membersihkan whitespace dan baris kosong
     domains = [domain.strip() for domain in domains if domain.strip()]
+    print(f"Processed domains from {txt_file}: {domains}")
 
     # Jika file kosong, lewati
     if not domains:
-        print(f"File {txt_file} kosong, dilewati.")
+        print(f"File {txt_file} is empty or contains no valid domains. Skipping.")
         continue
 
     # Mengubah format ke DOMAIN-SUFFIX dengan header Payload
-    yaml_lines = ["Payload:"] + [f"    - DOMAIN-SUFFIX,{domain}" for domain in domains]
+    yaml_lines = ["Payload:"] + [f"  - DOMAIN-SUFFIX,{domain}" for domain in domains]
+    print(f"YAML content for {txt_file}: {yaml_lines}")
 
     # Tentukan nama file output (.yaml)
     yaml_file = os.path.join(output_dir, os.path.basename(txt_file).replace(".txt", ".yaml"))
+    print(f"Output file: {yaml_file}")
 
     # Simpan ke file .yaml
     try:
         with open(yaml_file, 'w') as output_file:
             output_file.write('\n'.join(yaml_lines))
-        print(f"Berhasil mengonversi {txt_file} menjadi {yaml_file}")
+        print(f"Successfully converted {txt_file} to {yaml_file}")
     except Exception as e:
-        print(f"Gagal menulis {yaml_file}: {e}")
+        print(f"Failed to write {yaml_file}: {e}")
+        continue
