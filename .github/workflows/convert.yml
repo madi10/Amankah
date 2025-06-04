@@ -2,7 +2,7 @@ name: Daily TXT to YAML Conversion
 
 on:
   schedule:
-    - cron: '* * * * *'  # 00:00 WITA = 16:00 UTC
+    - cron: '* * * * *'  # Every minute for testing; change to '0 16 * * *' for 00:00 WITA (16:00 UTC)
   push:
     branches:
       - main  # Sesuaikan dengan branch utama kamu
@@ -26,12 +26,12 @@ jobs:
         run: |
           python sumber/convert.py
 
-- name: Commit and push changes
-  run: |
-    git config --global user.name "${{ secrets.AC_AMAN }}"
-    git config --global user.email "${{ secrets.AC_AJA }}"
-    git add path/*.yaml
-    git commit -m "Daily conversion of .txt to .yaml" || echo "No changes to commit"
-    git push
-  env:
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "${{ secrets.AC_AMAN }}"
+          git config --global user.email "${{ secrets.AC_AJA }}"
+          git add path/*.yaml
+          git commit -m "Daily conversion of .txt to .yaml" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
