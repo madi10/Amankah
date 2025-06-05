@@ -35,7 +35,6 @@ embed.jpegbb.com
 www.embed.jpegbb.com
 stream.jpegbb.com
 www.stream.jpegbb.com
-jpegbb.com
 mail.jpegbb.com
 www.jpegbb.com
 businessintelligencearchitecture.jpegbb.com
@@ -48,8 +47,7 @@ www3.jpegbb.com
 www.www3.jpegbb.com
 www2.jpegbb.com
 www.www2.jpegbb.com
-
-  # > streamable.com
+# > streamable.com
 apps.streamable.com
 data.streamable.com
 cdn-sh-west.streamable.com
@@ -101,8 +99,7 @@ cdn-staging-media.streamable.com
 www.cdn-staging-media.streamable.com
 cdn-staging.streamable.com
 www.cdn-staging.streamable.com
-
-  # > dood.pm doodstream.com
+# > dood.pm doodstream.com
 dood.pm
 dood.wf
 dooood.com
@@ -110,7 +107,7 @@ www.doodstream.com
 dood.so
 ds2play.com
 filelions.live
-doods.pro  
+doods.pro
 img.sinb.doodstream.com
 doodstream.com
 r.sinb.doodstream.com
@@ -132,14 +129,11 @@ gdrive.doodstream.com
 www.gdrive.doodstream.com
 takedown.doodstream.com
 www.takedown.doodstream.com
-
-  # > imgbox.com
+# > imgbox.com
 imgbox.com
-
-  # > imagebam.com
+# > imagebam.com
 imagebam.com
-
-  # > sendvid.com
+# > sendvid.com
 sendvid.com
 1.sendvid.com
 cache-1.sendvid.com
@@ -157,8 +151,7 @@ videos3-h.sendvid.com
 webmail.sendvid.com
 www.sendvid.com
 support.sendvid.com
-
-  # > goodjpe.com
+# > goodjpe.com
 goodjpe.com
 live.goodjpe.com
 www.live.goodjpe.com
@@ -171,13 +164,11 @@ www.stream.goodjpe.com
 cpanel.goodjpe.com
 cpcalendars.goodjpe.com
 cpcontacts.goodjpe.com
-goodjpe.com
 mail.goodjpe.com
 webdisk.goodjpe.com
 webmail.goodjpe.com
 www.goodjpe.com
-
-  # > sharejpg.com
+# > sharejpg.com
 autodiscover.sharejpg.com
 cpanel.sharejpg.com
 cpcalendars.sharejpg.com
@@ -199,7 +190,6 @@ video.sharejpg.com
 www.video.sharejpg.com
 upload.sharejpg.com
 www.upload.sharejpg.com
-
 # > dood family
 poop.com.co
 doodss.pro
