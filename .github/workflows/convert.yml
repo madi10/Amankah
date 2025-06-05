@@ -1,4 +1,4 @@
-name: Daily TXT to YAML Conversion
+name: Daily Conversion
 
 on:
   schedule:
@@ -21,6 +21,9 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+
+      - name: Run kembar.py
+        run: python sumber/kembar.py
 
       - name: Run convert.py
         run: python sumber/convert.py
