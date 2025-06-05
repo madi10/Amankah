@@ -35,7 +35,6 @@ Payload:
   - DOMAIN-SUFFIX,www.embed.jpegbb.com
   - DOMAIN-SUFFIX,stream.jpegbb.com
   - DOMAIN-SUFFIX,www.stream.jpegbb.com
-  - DOMAIN-SUFFIX,jpegbb.com
   - DOMAIN-SUFFIX,mail.jpegbb.com
   - DOMAIN-SUFFIX,www.jpegbb.com
   - DOMAIN-SUFFIX,businessintelligencearchitecture.jpegbb.com
@@ -165,7 +164,6 @@ Payload:
   - DOMAIN-SUFFIX,cpanel.goodjpe.com
   - DOMAIN-SUFFIX,cpcalendars.goodjpe.com
   - DOMAIN-SUFFIX,cpcontacts.goodjpe.com
-  - DOMAIN-SUFFIX,goodjpe.com
   - DOMAIN-SUFFIX,mail.goodjpe.com
   - DOMAIN-SUFFIX,webdisk.goodjpe.com
   - DOMAIN-SUFFIX,webmail.goodjpe.com
