@@ -4,6 +4,9 @@ Payload:
   - DOMAIN-SUFFIX,ads2.videy.co
   - DOMAIN-SUFFIX,cdn.videy.co
   - DOMAIN-SUFFIX,test-cdn.videy.co
+  - DOMAIN-SUFFIX,vioo.cc
+  - DOMAIN-SUFFIX,viidey.co
+  - DOMAIN-SUFFIX,videogemoy.com
   - DOMAIN-SUFFIX,#jpegbb
   - DOMAIN-SUFFIX,jpegbb.com
   - DOMAIN-SUFFIX,imgs.jpegbb.com
