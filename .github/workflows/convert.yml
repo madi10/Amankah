@@ -25,11 +25,11 @@ jobs:
       - name: Run kembar.py
         run: python sumber/kembar.py
 
-      - name: Run convert.py
-        run: python sumber/convert.py
-
       - name: Run convert-host.py
         run: python sumber/convert-host.py
+
+      - name: Run convert.py
+        run: python sumber/convert.py
 
       - name: Commit and push changes
         run: |
