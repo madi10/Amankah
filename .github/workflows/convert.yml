@@ -8,7 +8,7 @@ on:
       - main
     paths:
       - 'host/*.txt'
-#  workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
   convert:
