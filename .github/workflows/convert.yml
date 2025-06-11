@@ -8,7 +8,7 @@ on:
       - main
     paths:
       - 'host/*.txt'
-  workflow_dispatch:
+#  workflow_dispatch:
 
 jobs:
   convert:
@@ -40,6 +40,9 @@ jobs:
 
       - name: Run convert-ub.py
         run: python3 sumber/convert-ub.py || { echo 'convert-host.py failed'; exit 1; }
+
+      - name: Run convert-json.py
+        run: python3 sumber/convert-json.py || { echo 'convert-host.py failed'; exit 1; }
 
       - name: Run convert.py
         run: python3 sumber/convert.py || { echo 'convert.py failed'; exit 1; }
