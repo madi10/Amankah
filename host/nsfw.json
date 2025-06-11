@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "fapello.com",
+        "cdn.fapello.com",
+        "pphokiresmi.cfd"
+      ]
+    }
+  ]
+}
