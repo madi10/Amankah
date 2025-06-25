@@ -1,0 +1,5 @@
+#list host
+0.0.0.0 api.youlikecomic.com
+0.0.0.0 youlikecomic.com
+0.0.0.0 detailroi.com
+0.0.0.0 vg-tcp-gateway.detailroi.com

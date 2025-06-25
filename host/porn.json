@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "api.youlikecomic.com",
+        "youlikecomic.com",
+        "detailroi.com",
+        "vg-tcp-gateway.detailroi.com"
+      ]
+    }
+  ]
+}
