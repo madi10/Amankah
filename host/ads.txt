@@ -1,3 +1,7 @@
+browser.sentry-cdn.com
+app.getsentry.com
+appmetrica.yandex.ru
+metrics.icloud.com
 analyticsengine.s3.amazonaws.com
 analytics.s3.amazonaws.com
 m.doubleclick.net
