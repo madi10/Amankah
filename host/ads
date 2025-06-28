@@ -1,4 +1,8 @@
 #list host
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 app.getsentry.com
+0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 metrics.icloud.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 analytics.s3.amazonaws.com
 0.0.0.0 m.doubleclick.net
@@ -10,7 +14,6 @@
 0.0.0.0 business-api.tiktok.com
 0.0.0.0 ads.tiktok.com
 0.0.0.0 log.byteoversea.com
-0.0.0.0 appmetrica.yandex.ru
 0.0.0.0 adfstat.yandex.ru
 0.0.0.0 metrika.yandex.ru
 0.0.0.0 udcm.yahoo.com

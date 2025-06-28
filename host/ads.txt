@@ -13,7 +13,6 @@ ads-sg.tiktok.com
 business-api.tiktok.com
 ads.tiktok.com
 log.byteoversea.com
-appmetrica.yandex.ru
 adfstat.yandex.ru
 metrika.yandex.ru
 udcm.yahoo.com
