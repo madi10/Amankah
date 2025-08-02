@@ -1,6 +1,6 @@
 ## ublock
-||api.youlikecomic.com^
-||youlikecomic.com^
-||detailroi.com^
-||vg-tcp-gateway.detailroi.com^
-||zureoh05.blogspot.com^
+||api.youlikecomic.com^$third-party
+||youlikecomic.com^$third-party
+||detailroi.com^$third-party
+||vg-tcp-gateway.detailroi.com^$third-party
+||zureoh05.blogspot.com^$third-party
