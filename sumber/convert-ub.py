@@ -41,7 +41,7 @@ for txt_file in txt_files:
         print(f"File {txt_file} is empty or contains no valid domains. Skipping.")
         continue
 
-    text_lines = ["## ublock"] + [f"||{domain}^" for domain in domains]
+    text_lines = ["## ublock"] + [f"||{domain}^$third-party" for domain in domains]
     print(f"text content for {txt_file}: {text_lines}")
 
     # Tentukan nama file output (.text)
