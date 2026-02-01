@@ -1,0 +1,22 @@
+payload:
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,duckduckgo.com
+  - DOMAIN-SUFFIX,search.yahoo.com
+  - DOMAIN-SUFFIX,ecosia.org
+  - DOMAIN-SUFFIX,startpage.com
+  - DOMAIN-SUFFIX,search.brave.com
+  - DOMAIN-SUFFIX,qwant.com
+  - DOMAIN-SUFFIX,mojeek.com
+  - DOMAIN-SUFFIX,searx.space
+  - DOMAIN-SUFFIX,searxng.org
+  - DOMAIN-SUFFIX,searchcode.com
+  - DOMAIN-SUFFIX,sourcegraph.com
+  - DOMAIN-SUFFIX,archive.org
+  - DOMAIN-SUFFIX,web.archive.org
+  - DOMAIN-SUFFIX,wolframalpha.com
+  - DOMAIN-SUFFIX,base-search.net
+  - DOMAIN-SUFFIX,semanticscholar.org
+  - DOMAIN-SUFFIX,naver.com
+  - DOMAIN-SUFFIX,baidu.com
+  - DOMAIN-SUFFIX,sogou.com
+  - DOMAIN-SUFFIX,swisscows.com

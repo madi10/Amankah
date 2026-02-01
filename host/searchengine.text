@@ -1,0 +1,22 @@
+## ublock
+||bing.com^$third-party
+||duckduckgo.com^$third-party
+||search.yahoo.com^$third-party
+||ecosia.org^$third-party
+||startpage.com^$third-party
+||search.brave.com^$third-party
+||qwant.com^$third-party
+||mojeek.com^$third-party
+||searx.space^$third-party
+||searxng.org^$third-party
+||searchcode.com^$third-party
+||sourcegraph.com^$third-party
+||archive.org^$third-party
+||web.archive.org^$third-party
+||wolframalpha.com^$third-party
+||base-search.net^$third-party
+||semanticscholar.org^$third-party
+||naver.com^$third-party
+||baidu.com^$third-party
+||sogou.com^$third-party
+||swisscows.com^$third-party
