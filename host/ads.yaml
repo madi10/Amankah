@@ -42,3 +42,21 @@ payload:
   - DOMAIN-SUFFIX,books-analytics-events.apple.com
   - DOMAIN-SUFFIX,weather-analytics-events.apple.com
   - DOMAIN-SUFFIX,notes-analytics-events.apple.com
+  - DOMAIN-SUFFIX,samsung-com.112.2o7.net
+  - DOMAIN-SUFFIX,analytics-api.samsunghealthcn.com
+  - DOMAIN-SUFFIX,smetrics.samsung.com
+  - DOMAIN-SUFFIX,metrics.data.hicloud.com
+  - DOMAIN-SUFFIX,metrics2.data.hicloud.com
+  - DOMAIN-SUFFIX,logservice1.hicloud.com
+  - DOMAIN-SUFFIX,logservice.hicloud.com
+  - DOMAIN-SUFFIX,metrics.mzstatic.com
+  - DOMAIN-SUFFIX,adfox.yandex.ru
+  - DOMAIN-SUFFIX,geo.yahoo.com
+  - DOMAIN-SUFFIX,log.pinterest.com
+  - DOMAIN-SUFFIX,trk.pinterest.com
+  - DOMAIN-SUFFIX,analytics-sg.tiktok.com
+  - DOMAIN-SUFFIX,sessions.bugsnag.com
+  - DOMAIN-SUFFIX,notify.bugsnag.com
+  - DOMAIN-SUFFIX,luckyorange.com
+  - DOMAIN-SUFFIX,mouseflow.com
+  - DOMAIN-SUFFIX,media.net

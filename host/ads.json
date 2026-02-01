@@ -45,7 +45,25 @@
         "api-adservices.apple.com",
         "books-analytics-events.apple.com",
         "weather-analytics-events.apple.com",
-        "notes-analytics-events.apple.com"
+        "notes-analytics-events.apple.com",
+        "samsung-com.112.2o7.net",
+        "analytics-api.samsunghealthcn.com",
+        "smetrics.samsung.com",
+        "metrics.data.hicloud.com",
+        "metrics2.data.hicloud.com",
+        "logservice1.hicloud.com",
+        "logservice.hicloud.com",
+        "metrics.mzstatic.com",
+        "adfox.yandex.ru",
+        "geo.yahoo.com",
+        "log.pinterest.com",
+        "trk.pinterest.com",
+        "analytics-sg.tiktok.com",
+        "sessions.bugsnag.com",
+        "notify.bugsnag.com",
+        "luckyorange.com",
+        "mouseflow.com",
+        "media.net"
       ]
     }
   ]
