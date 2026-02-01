@@ -19,3 +19,4 @@ naver.com
 baidu.com
 sogou.com
 swisscows.com
+yandex.com
