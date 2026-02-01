@@ -42,7 +42,7 @@ for txt_file in txt_files:
         continue
 
     # Mengubah format ke DOMAIN-SUFFIX dengan header Payload
-    yaml_lines = ["Payload:"] + [f"  - DOMAIN-SUFFIX,{domain}" for domain in domains]
+    yaml_lines = ["payload:"] + [f"  - DOMAIN-SUFFIX,{domain}" for domain in domains]
     print(f"YAML content for {txt_file}: {yaml_lines}")
 
     # Tentukan nama file output (.yaml)
