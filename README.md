@@ -22,7 +22,7 @@ Update untuk sementara acak, dan masih tahap penggunaan pribdi. Tetapi jika anda
 - host
 - json
 - yaml
-- original
+- original / raw
 
 # Bantu Pembaruan Daftar
 bagi anda punya daftar tersendiri dari file yang saya punya ini, bisa memasukkan daftar anda di link ini [New Issue](https://github.com/madi10/Amankah/issues/new)
