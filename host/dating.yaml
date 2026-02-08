@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,skout.com
   - DOMAIN-SUFFIX,zoosk.com
   - DOMAIN-SUFFIX,tagged.com
+  - DOMAIN-SUFFIX,anonchatbot.com
   - DOMAIN-SUFFIX,adultfriendfinder.com
   - DOMAIN-SUFFIX,friendfinder.com
   - DOMAIN-SUFFIX,fling.com
