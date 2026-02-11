@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
+        "id-tokopedia-smarthphone.kecnbe.my.id",
+        "kecnbe.my.id",
         "pengajartekno.co.id",
         "jomarksman.pengajartekno.co.id",
         "iniways38.biz.id",
