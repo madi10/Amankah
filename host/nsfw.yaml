@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,h5.juxia.com
+  - DOMAIN-SUFFIX,juxia.com
   - DOMAIN-SUFFIX,koycash.net
   - DOMAIN-SUFFIX,fapello.com
   - DOMAIN-SUFFIX,cdn.fapello.com
