@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "admsipuu.setkab.go.id",
+        "api-ekabinet.setkab.go.id",
+        "api-penerjemah.setkab.go.id",
+        "api-simka.setkab.go.id",
+        "cpanel.pahlawandigitalumkm.setkab.go.id",
+        "cpcontacts.pahlawandigitalumkm.setkab.go.id",
+        "dev.setkab.go.id",
+        "ekabinet.setkab.go.id",
+        "helpdesk.setkab.go.id",
+        "jdih.setkab.go.id",
+        "mail.setkab.go.id",
+        "mail2.setkab.go.id",
+        "netbox.setkab.go.id",
+        "ns2.setkab.go.id",
+        "old.setkab.go.id",
+        "pahlawandigitalumkm.setkab.go.id",
+        "penerjemah.setkab.go.id",
+        "ppid.setkab.go.id",
+        "ppid2.setkab.go.id",
+        "presensi.setkab.go.id",
+        "rb.setkab.go.id",
+        "semnas.setkab.go.id",
+        "setkab.go.id",
+        "simmpen.setkab.go.id",
+        "simpeg.setkab.go.id",
+        "sippil.setkab.go.id",
+        "sipt.setkab.go.id",
+        "sipuu.setkab.go.id",
+        "siskab.setkab.go.id",
+        "user-penerjemah.setkab.go.id",
+        "webdisk.pahlawandigitalumkm.setkab.go.id",
+        "webmail.pahlawandigitalumkm.setkab.go.id",
+        "www.setkab.go.id"
+      ]
+    }
+  ]
+}

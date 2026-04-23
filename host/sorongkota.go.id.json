@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "_dc-mx.762a9ec06617.sorongkota.go.id",
+        "attr.report.sorongkota.go.id",
+        "bpkad.sorongkota.go.id",
+        "dc-de7ef2f77c9f.sorongkota.go.id",
+        "disnaker.sorongkota.go.id",
+        "doa.sorongkota.go.id",
+        "dpmptsp.sorongkota.go.id",
+        "infolayanan.sorongkota.go.id",
+        "jdih.sorongkota.go.id",
+        "kesbangpol.sorongkota.go.id",
+        "lpse.sorongkota.go.id",
+        "mail.sorongkota.go.id",
+        "pengaduan-disnaker.sorongkota.go.id",
+        "perpusda.sorongkota.go.id",
+        "portal.sorongkota.go.id",
+        "putr.sorongkota.go.id",
+        "sip.sorongkota.go.id",
+        "sipecibpkad.sorongkota.go.id",
+        "sorongkota.go.id",
+        "web.sorongkota.go.id",
+        "www.sorongkota.go.id"
+      ]
+    }
+  ]
+}
