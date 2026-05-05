@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "staticfiles-djaxxx.s3.amazonaws.com",
         "wahacker.net",
         "id-tokopedia-smarthphone.kecnbe.my.id",
         "kecnbe.my.id",
