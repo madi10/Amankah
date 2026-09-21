@@ -60,7 +60,7 @@ payload:
   - DOMAIN-SUFFIX,luckyorange.com
   - DOMAIN-SUFFIX,mouseflow.com
   - DOMAIN-SUFFIX,media.net
-  # > popunder/pop ads networks
+  - DOMAIN-SUFFIX,# > popunder/pop ads networks
   - DOMAIN-SUFFIX,popads.net
   - DOMAIN-SUFFIX,popcash.net
   - DOMAIN-SUFFIX,hilltopads.com
@@ -77,17 +77,17 @@ payload:
   - DOMAIN-SUFFIX,exoclick.com
   - DOMAIN-SUFFIX,trafficjunky.com
   - DOMAIN-SUFFIX,plugrush.com
-  # > ad trackers
+  - DOMAIN-SUFFIX,# > ad trackers
   - DOMAIN-SUFFIX,tracking.klickly.com
   - DOMAIN-SUFFIX,trk.klclick.com
   - DOMAIN-SUFFIX,track.ultravpn.com
   - DOMAIN-SUFFIX,tracker.clotad.com
   - DOMAIN-SUFFIX,ads.korolyov.xyz
-  # > Indonesian ad networks
+  - DOMAIN-SUFFIX,# > Indonesian ad networks
   - DOMAIN-SUFFIX,sasato.id
   - DOMAIN-SUFFIX,ads.id
   - DOMAIN-SUFFIX,matadata.id
-  # > mobile ad networks
+  - DOMAIN-SUFFIX,# > mobile ad networks
   - DOMAIN-SUFFIX,mopub.com
   - DOMAIN-SUFFIX,inmobi.com
   - DOMAIN-SUFFIX,startapp.com
@@ -103,7 +103,7 @@ payload:
   - DOMAIN-SUFFIX,openx.com
   - DOMAIN-SUFFIX,rubiconproject.com
   - DOMAIN-SUFFIX,indexexchange.com
-  # > analytics & tracking
+  - DOMAIN-SUFFIX,# > analytics & tracking
   - DOMAIN-SUFFIX,amplitude.com
   - DOMAIN-SUFFIX,mixpanel.com
   - DOMAIN-SUFFIX,segment.com

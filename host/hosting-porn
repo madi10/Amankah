@@ -39,44 +39,25 @@
 0.0.0.0 n0nt0n-gr4tis-xyzz.short.gy
 0.0.0.0 jpegbb.com
 0.0.0.0 imgs.jpegbb.com
-0.0.0.0 www.imgs.jpegbb.com
 0.0.0.0 img.jpegbb.com
-0.0.0.0 www.img.jpegbb.com
 0.0.0.0 play.jpegbb.com
-0.0.0.0 www.play.jpegbb.com
 0.0.0.0 mp4.jpegbb.com
-0.0.0.0 www.mp4.jpegbb.com
 0.0.0.0 plays.jpegbb.com
-0.0.0.0 www.plays.jpegbb.com
 0.0.0.0 streams.jpegbb.com
-0.0.0.0 www.streams.jpegbb.com
 0.0.0.0 tube.jpegbb.com
-0.0.0.0 www.tube.jpegbb.com
 0.0.0.0 videos.jpegbb.com
-0.0.0.0 www.videos.jpegbb.com
 0.0.0.0 image.jpegbb.com
-0.0.0.0 www.image.jpegbb.com
 0.0.0.0 loveinvid.jpegbb.com
-0.0.0.0 www.loveinvid.jpegbb.com
 0.0.0.0 loveinfile.jpegbb.com
-0.0.0.0 www.loveinfile.jpegbb.com
 0.0.0.0 embed.jpegbb.com
-0.0.0.0 www.embed.jpegbb.com
 0.0.0.0 stream.jpegbb.com
-0.0.0.0 www.stream.jpegbb.com
 0.0.0.0 mail.jpegbb.com
-0.0.0.0 www.jpegbb.com
 0.0.0.0 vvide0.com
 0.0.0.0 businessintelligencearchitecture.jpegbb.com
-0.0.0.0 www.businessintelligencearchitecture.jpegbb.com
 0.0.0.0 smallbusiness.jpegbb.com
-0.0.0.0 www.smallbusiness.jpegbb.com
 0.0.0.0 server.jpegbb.com
-0.0.0.0 www.server.jpegbb.com
 0.0.0.0 www3.jpegbb.com
-0.0.0.0 www.www3.jpegbb.com
 0.0.0.0 www2.jpegbb.com
-0.0.0.0 www.www2.jpegbb.com
 0.0.0.0 # > streamable.com
 0.0.0.0 apps.streamable.com
 0.0.0.0 data.streamable.com
@@ -114,26 +95,18 @@
 0.0.0.0 publishers.streamable.com
 0.0.0.0 bg-cdn.streamable.com
 0.0.0.0 b-cdn.streamable.com
-0.0.0.0 www.streamable.com
 0.0.0.0 cdn.streamable.com
 0.0.0.0 changelog.streamable.com
 0.0.0.0 blog.streamable.com
 0.0.0.0 advertising.streamable.com
 0.0.0.0 cdn-w-east.streamable.com
 0.0.0.0 assets.streamable.com
-0.0.0.0 www.assets.streamable.com
-0.0.0.0 www.publishers.streamable.com
-0.0.0.0 www.try.streamable.com
-0.0.0.0 www.advertising.streamable.com
 0.0.0.0 cdn-staging-media.streamable.com
-0.0.0.0 www.cdn-staging-media.streamable.com
 0.0.0.0 cdn-staging.streamable.com
-0.0.0.0 www.cdn-staging.streamable.com
 0.0.0.0 # > dood.pm doodstream.com
 0.0.0.0 dood.pm
 0.0.0.0 dood.wf
 0.0.0.0 dooood.com
-0.0.0.0 www.doodstream.com
 0.0.0.0 dood.so
 0.0.0.0 ds2play.com
 0.0.0.0 filelions.live
@@ -148,17 +121,11 @@
 0.0.0.0 tracker.doodstream.com
 0.0.0.0 gd-lb1.doodstream.com
 0.0.0.0 gd.doodstream.com
-0.0.0.0 www.newsletter.doodstream.com
 0.0.0.0 m.doodstream.com
-0.0.0.0 www.m.doodstream.com
 0.0.0.0 dodbox.doodstream.com
-0.0.0.0 www.dodbox.doodstream.com
 0.0.0.0 movies.doodstream.com
-0.0.0.0 www.movies.doodstream.com
 0.0.0.0 gdrive.doodstream.com
-0.0.0.0 www.gdrive.doodstream.com
 0.0.0.0 takedown.doodstream.com
-0.0.0.0 www.takedown.doodstream.com
 0.0.0.0 # > imgbox.com
 0.0.0.0 imgbox.com
 0.0.0.0 # > imagebam.com
@@ -179,25 +146,19 @@
 0.0.0.0 cache-4.sendvid.com
 0.0.0.0 videos3-h.sendvid.com
 0.0.0.0 webmail.sendvid.com
-0.0.0.0 www.sendvid.com
 0.0.0.0 support.sendvid.com
 0.0.0.0 # > goodjpe.com
 0.0.0.0 goodjpe.com
 0.0.0.0 live.goodjpe.com
-0.0.0.0 www.live.goodjpe.com
 0.0.0.0 play.goodjpe.com
-0.0.0.0 www.play.goodjpe.com
 0.0.0.0 losemp.goodjpe.com
-0.0.0.0 www.losemp.goodjpe.com
 0.0.0.0 stream.goodjpe.com
-0.0.0.0 www.stream.goodjpe.com
 0.0.0.0 cpanel.goodjpe.com
 0.0.0.0 cpcalendars.goodjpe.com
 0.0.0.0 cpcontacts.goodjpe.com
 0.0.0.0 mail.goodjpe.com
 0.0.0.0 webdisk.goodjpe.com
 0.0.0.0 webmail.goodjpe.com
-0.0.0.0 www.goodjpe.com
 0.0.0.0 # > sharejpg.com
 0.0.0.0 autodiscover.sharejpg.com
 0.0.0.0 cpanel.sharejpg.com
@@ -207,22 +168,93 @@
 0.0.0.0 sharejpg.com
 0.0.0.0 webdisk.sharejpg.com
 0.0.0.0 webmail.sharejpg.com
-0.0.0.0 www.sharejpg.com
 0.0.0.0 images.sharejpg.com
-0.0.0.0 www.images.sharejpg.com
 0.0.0.0 mp4.sharejpg.com
-0.0.0.0 www.mp4.sharejpg.com
 0.0.0.0 movie.sharejpg.com
-0.0.0.0 www.movie.sharejpg.com
 0.0.0.0 blog.sharejpg.com
-0.0.0.0 www.blog.sharejpg.com
 0.0.0.0 video.sharejpg.com
-0.0.0.0 www.video.sharejpg.com
 0.0.0.0 upload.sharejpg.com
-0.0.0.0 www.upload.sharejpg.com
 0.0.0.0 # > dood family
 0.0.0.0 poop.com.co
 0.0.0.0 doodss.pro
 0.0.0.0 d000d.com
 0.0.0.0 dood.is
 0.0.0.0 dood.am
+0.0.0.0 # > filemoon.sx
+0.0.0.0 filemoon.sx
+0.0.0.0 # > voe.sx
+0.0.0.0 voe.sx
+0.0.0.0 # > streamsb.com
+0.0.0.0 streamsb.com
+0.0.0.0 # > streamhub.to
+0.0.0.0 streamhub.to
+0.0.0.0 # > streamvid.net
+0.0.0.0 streamvid.net
+0.0.0.0 # > vtube.to
+0.0.0.0 vtube.to
+0.0.0.0 # > wolfstream.tv
+0.0.0.0 wolfstream.tv
+0.0.0.0 # > fembed.com
+0.0.0.0 fembed.com
+0.0.0.0 # > mixdrop.co
+0.0.0.0 mixdrop.co
+0.0.0.0 # > uptostream.com
+0.0.0.0 uptostream.com
+0.0.0.0 # > upstream.to
+0.0.0.0 upstream.to
+0.0.0.0 # > keep2share.com
+0.0.0.0 keep2share.com
+0.0.0.0 # > k2s.cc
+0.0.0.0 k2s.cc
+0.0.0.0 # > 1fichier.com
+0.0.0.0 1fichier.com
+0.0.0.0 # > ok.ru (video hosting)
+0.0.0.0 ok.ru
+0.0.0.0 # > vidlox.me
+0.0.0.0 vidlox.me
+0.0.0.0 # > verystream.com
+0.0.0.0 verystream.com
+0.0.0.0 # > vidoza.net
+0.0.0.0 vidoza.net
+0.0.0.0 # > videobin.co
+0.0.0.0 videobin.co
+0.0.0.0 # > racaty.io
+0.0.0.0 racaty.io
+0.0.0.0 # > gofile.io
+0.0.0.0 gofile.io
+0.0.0.0 # > mega.nz
+0.0.0.0 mega.nz
+0.0.0.0 # > terabox.com
+0.0.0.0 terabox.com
+0.0.0.0 # > filetransfer.io
+0.0.0.0 filetransfer.io
+0.0.0.0 # > oshi.at
+0.0.0.0 oshi.at
+0.0.0.0 # > tmpfiles.org
+0.0.0.0 tmpfiles.org
+0.0.0.0 # > litterbox.catbox.moe
+0.0.0.0 litterbox.catbox.moe
+0.0.0.0 # > catbox.moe
+0.0.0.0 catbox.moe
+0.0.0.0 # > pixeldrain.com
+0.0.0.0 pixeldrain.com
+0.0.0.0 # > transfer.sh
+0.0.0.0 transfer.sh
+0.0.0.0 # > 0x0.st
+0.0.0.0 0x0.st
+0.0.0.0 # > file.io
+0.0.0.0 file.io
+0.0.0.0 # > bashupload.com
+0.0.0.0 bashupload.com
+0.0.0.0 # > uguu.se
+0.0.0.0 uguu.se
+0.0.0.0 # > rentry.co
+0.0.0.0 rentry.co
+0.0.0.0 # > paste.ee
+0.0.0.0 paste.ee
+0.0.0.0 # > pastebin.com
+0.0.0.0 pastebin.com
+0.0.0.0 # > dpaste.org
+0.0.0.0 dpaste.org
+0.0.0.0 # > hastebin.com
+0.0.0.0 hastebin.com

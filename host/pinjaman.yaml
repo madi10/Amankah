@@ -62,7 +62,7 @@ payload:
   - DOMAIN-SUFFIX,kredinesia.id
   - DOMAIN-SUFFIX,kreditpro.id
   - DOMAIN-SUFFIX,solusi-ku.id
-  # > pinjol ilegal 2026 (OJK Satgas PASTI)
+  - DOMAIN-SUFFIX,# > pinjol ilegal 2026 (OJK Satgas PASTI)
   - DOMAIN-SUFFIX,uangcepat.id
   - DOMAIN-SUFFIX,danacepat.id
   - DOMAIN-SUFFIX,duithappy.id
@@ -87,7 +87,7 @@ payload:
   - DOMAIN-SUFFIX,pinjamindo.id
   - DOMAIN-SUFFIX,cantikdana.id
   - DOMAIN-SUFFIX,kreditkilat.id
-  # > pinjol illegal apps
+  - DOMAIN-SUFFIX,# > pinjol illegal apps
   - DOMAIN-SUFFIX,chipapk.com
   - DOMAIN-SUFFIX,apksos.com
   - DOMAIN-SUFFIX,apkaio.com
@@ -98,12 +98,4 @@ payload:
   - DOMAIN-SUFFIX,apkpure.com
   - DOMAIN-SUFFIX,apkcombo.com
   - DOMAIN-SUFFIX,ldplayer.net
-  # > fintech lending sites
-  - DOMAIN-SUFFIX,uangme.id
-  - DOMAIN-SUFFIX,pinjamyuk.co.id
-  - DOMAIN-SUFFIX,cashcepat.id
-  - DOMAIN-SUFFIX,danasyariah.id
-  - DOMAIN-SUFFIX,invoila.co.id
-  - DOMAIN-SUFFIX,lumbungdana.co.id
-  - DOMAIN-SUFFIX,modalrakyat.id
-  - DOMAIN-SUFFIX,pintek.id
+  - DOMAIN-SUFFIX,# > fintech lending sites

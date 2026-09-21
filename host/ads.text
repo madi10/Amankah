@@ -60,3 +60,57 @@
 ||luckyorange.com^$third-party
 ||mouseflow.com^$third-party
 ||media.net^$third-party
+||# > popunder/pop ads networks^$third-party
+||popads.net^$third-party
+||popcash.net^$third-party
+||hilltopads.com^$third-party
+||propellerads.com^$third-party
+||richads.com^$third-party
+||adcash.com^$third-party
+||adsterra.com^$third-party
+||clickadu.com^$third-party
+||evadav.com^$third-party
+||rollerads.com^$third-party
+||kadam.com^$third-party
+||adscompass.com^$third-party
+||trafficstars.com^$third-party
+||exoclick.com^$third-party
+||trafficjunky.com^$third-party
+||plugrush.com^$third-party
+||# > ad trackers^$third-party
+||tracking.klickly.com^$third-party
+||trk.klclick.com^$third-party
+||track.ultravpn.com^$third-party
+||tracker.clotad.com^$third-party
+||ads.korolyov.xyz^$third-party
+||# > Indonesian ad networks^$third-party
+||sasato.id^$third-party
+||ads.id^$third-party
+||matadata.id^$third-party
+||# > mobile ad networks^$third-party
+||mopub.com^$third-party
+||inmobi.com^$third-party
+||startapp.com^$third-party
+||applovin.com^$third-party
+||ironsrc.com^$third-party
+||tapjoy.com^$third-party
+||vungle.com^$third-party
+||adcolony.com^$third-party
+||fyber.com^$third-party
+||smaato.com^$third-party
+||instreamatic.com^$third-party
+||pubmatic.com^$third-party
+||openx.com^$third-party
+||rubiconproject.com^$third-party
+||indexexchange.com^$third-party
+||# > analytics & tracking^$third-party
+||amplitude.com^$third-party
+||mixpanel.com^$third-party
+||segment.com^$third-party
+||hotjar.com^$third-party
+||fullstory.com^$third-party
+||crazyegg.com^$third-party
+||optimizely.com^$third-party
+||kissmetrics.com^$third-party
+||heap.io^$third-party
+||pendo.io^$third-party

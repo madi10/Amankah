@@ -60,3 +60,57 @@
 0.0.0.0 luckyorange.com
 0.0.0.0 mouseflow.com
 0.0.0.0 media.net
+0.0.0.0 # > popunder/pop ads networks
+0.0.0.0 popads.net
+0.0.0.0 popcash.net
+0.0.0.0 hilltopads.com
+0.0.0.0 propellerads.com
+0.0.0.0 richads.com
+0.0.0.0 adcash.com
+0.0.0.0 adsterra.com
+0.0.0.0 clickadu.com
+0.0.0.0 evadav.com
+0.0.0.0 rollerads.com
+0.0.0.0 kadam.com
+0.0.0.0 adscompass.com
+0.0.0.0 trafficstars.com
+0.0.0.0 exoclick.com
+0.0.0.0 trafficjunky.com
+0.0.0.0 plugrush.com
+0.0.0.0 # > ad trackers
+0.0.0.0 tracking.klickly.com
+0.0.0.0 trk.klclick.com
+0.0.0.0 track.ultravpn.com
+0.0.0.0 tracker.clotad.com
+0.0.0.0 ads.korolyov.xyz
+0.0.0.0 # > Indonesian ad networks
+0.0.0.0 sasato.id
+0.0.0.0 ads.id
+0.0.0.0 matadata.id
+0.0.0.0 # > mobile ad networks
+0.0.0.0 mopub.com
+0.0.0.0 inmobi.com
+0.0.0.0 startapp.com
+0.0.0.0 applovin.com
+0.0.0.0 ironsrc.com
+0.0.0.0 tapjoy.com
+0.0.0.0 vungle.com
+0.0.0.0 adcolony.com
+0.0.0.0 fyber.com
+0.0.0.0 smaato.com
+0.0.0.0 instreamatic.com
+0.0.0.0 pubmatic.com
+0.0.0.0 openx.com
+0.0.0.0 rubiconproject.com
+0.0.0.0 indexexchange.com
+0.0.0.0 # > analytics & tracking
+0.0.0.0 amplitude.com
+0.0.0.0 mixpanel.com
+0.0.0.0 segment.com
+0.0.0.0 hotjar.com
+0.0.0.0 fullstory.com
+0.0.0.0 crazyegg.com
+0.0.0.0 optimizely.com
+0.0.0.0 kissmetrics.com
+0.0.0.0 heap.io
+0.0.0.0 pendo.io

@@ -13,7 +13,7 @@ payload:
   - DOMAIN-SUFFIX,nekopoi.web.id
   - DOMAIN-SUFFIX,eporner.com
   - DOMAIN-SUFFIX,sebokep.vip
-  # > Indonesian porn sites
+  - DOMAIN-SUFFIX,# > Indonesian porn sites
   - DOMAIN-SUFFIX,bokepindohot.com
   - DOMAIN-SUFFIX,bokepindohot.net
   - DOMAIN-SUFFIX,bokepxxx.cam
@@ -34,12 +34,11 @@ payload:
   - DOMAIN-SUFFIX,bokepviral.com
   - DOMAIN-SUFFIX,drbokepcrot.com
   - DOMAIN-SUFFIX,bokepsearch.com
-  # > Asian porn sites
+  - DOMAIN-SUFFIX,# > Asian porn sites
   - DOMAIN-SUFFIX,javmost.com
   - DOMAIN-SUFFIX,javhd.com
   - DOMAIN-SUFFIX,javguru.com
   - DOMAIN-SUFFIX,javfull.com
-  - DOMAIN-SUFFIX,javguru.com
   - DOMAIN-SUFFIX,javlibrary.com
   - DOMAIN-SUFFIX,javdb.com
   - DOMAIN-SUFFIX,dmm.co.jp
@@ -49,7 +48,7 @@ payload:
   - DOMAIN-SUFFIX,caribbeancom.com
   - DOMAIN-SUFFIX,heyzo.com
   - DOMAIN-SUFFIX,s1s1s1.com
-  # > Hentai sites
+  - DOMAIN-SUFFIX,# > Hentai sites
   - DOMAIN-SUFFIX,hentaiplay.net
   - DOMAIN-SUFFIX,hentaihaven.app
   - DOMAIN-SUFFIX,hentaihaven.gg
@@ -58,14 +57,11 @@ payload:
   - DOMAIN-SUFFIX,hentai-anime.com
   - DOMAIN-SUFFIX,hentaistream.com
   - DOMAIN-SUFFIX,doujinshi.read
-  # > Premium Asian sites
-  - DOMAIN-SUFFIX,s1s1s1.com
-  - DOMAIN-SUFFIX,caribbeancom.com
-  - DOMAIN-SUFFIX,heyzo.com
+  - DOMAIN-SUFFIX,# > Premium Asian sites
   - DOMAIN-SUFFIX,t1s1s1.com
   - DOMAIN-SUFFIX,s-cute.com
   - DOMAIN-SUFFIX,gcolle.net
-  # > Indonesian local sites
+  - DOMAIN-SUFFIX,# > Indonesian local sites
   - DOMAIN-SUFFIX,bokepgo.com
   - DOMAIN-SUFFIX,bokep1.com
   - DOMAIN-SUFFIX,bokep2.com

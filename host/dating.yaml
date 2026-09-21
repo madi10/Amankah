@@ -50,12 +50,11 @@ payload:
   - DOMAIN-SUFFIX,momo.com
   - DOMAIN-SUFFIX,pairs.lv
   - DOMAIN-SUFFIX,yoocupid.com
-  # > new dating apps 2025-2026
+  - DOMAIN-SUFFIX,# > new dating apps 2025-2026
   - DOMAIN-SUFFIX,setipe.com
   - DOMAIN-SUFFIX,muzz.com
   - DOMAIN-SUFFIX,salams.com
   - DOMAIN-SUFFIX,jolly.me
-  - DOMAIN-SUFFIX,tantanapp.com
   - DOMAIN-SUFFIX,azarnetwork.com
   - DOMAIN-SUFFIX,paktor.com
   - DOMAIN-SUFFIX,neenbo.com
@@ -75,6 +74,7 @@ payload:
   - DOMAIN-SUFFIX,ome.tv
   - DOMAIN-SUFFIX,camsurf.com
   - DOMAIN-SUFFIX,bazoocam.com
+  - DOMAIN-SUFFIX,omeagle alternatives
   - DOMAIN-SUFFIX,justdating.com
   - DOMAIN-SUFFIX,flirt.com
   - DOMAIN-SUFFIX,flirtatiousdating.com
@@ -92,8 +92,7 @@ payload:
   - DOMAIN-SUFFIX,ukrainiancharm.com
   - DOMAIN-SUFFIX,bridesandlovers.com
   - DOMAIN-SUFFIX,matchtruly.com
-  - DOMAIN-SUFFIX,jasmine
-live.com
+  - DOMAIN-SUFFIX,jasminelive.com
   - DOMAIN-SUFFIX,chaturbate.com
   - DOMAIN-SUFFIX,stripchat.com
   - DOMAIN-SUFFIX,bongacams.com
@@ -104,7 +103,7 @@ live.com
   - DOMAIN-SUFFIX,camsoda.com
   - DOMAIN-SUFFIX,xhamsterlive.com
   - DOMAIN-SUFFIX,streamate.com
-  # > Indonesian dating
+  - DOMAIN-SUFFIX,# > Indonesian dating
   - DOMAIN-SUFFIX,indonesiancupid.com
   - DOMAIN-SUFFIX,indonesiandating.org
   - DOMAIN-SUFFIX,indodating.com

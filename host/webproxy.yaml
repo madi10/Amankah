@@ -77,7 +77,7 @@ payload:
   - DOMAIN-SUFFIX,vpnbook.com/webproxy
   - DOMAIN-SUFFIX,securefor.com
   - DOMAIN-SUFFIX,vpnproxymaster.com
-  # > new webproxy 2025-2026
+  - DOMAIN-SUFFIX,# > new webproxy 2025-2026
   - DOMAIN-SUFFIX,blockaway.net
   - DOMAIN-SUFFIX,sitenable.asia
   - DOMAIN-SUFFIX,sitenable.com
@@ -118,7 +118,7 @@ payload:
   - DOMAIN-SUFFIX,isityet.net
   - DOMAIN-SUFFIX,mywebproxy.asia
   - DOMAIN-SUFFIX,unblockblockedwebsites.com
-  # > Android VPN/proxy apps domains
+  - DOMAIN-SUFFIX,# > Android VPN/proxy apps domains
   - DOMAIN-SUFFIX,windscribe.com
   - DOMAIN-SUFFIX,tunnelbear.com
   - DOMAIN-SUFFIX,nordvpn.com
