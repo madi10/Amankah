@@ -39,44 +39,25 @@
 ||n0nt0n-gr4tis-xyzz.short.gy^$third-party
 ||jpegbb.com^$third-party
 ||imgs.jpegbb.com^$third-party
-||www.imgs.jpegbb.com^$third-party
 ||img.jpegbb.com^$third-party
-||www.img.jpegbb.com^$third-party
 ||play.jpegbb.com^$third-party
-||www.play.jpegbb.com^$third-party
 ||mp4.jpegbb.com^$third-party
-||www.mp4.jpegbb.com^$third-party
 ||plays.jpegbb.com^$third-party
-||www.plays.jpegbb.com^$third-party
 ||streams.jpegbb.com^$third-party
-||www.streams.jpegbb.com^$third-party
 ||tube.jpegbb.com^$third-party
-||www.tube.jpegbb.com^$third-party
 ||videos.jpegbb.com^$third-party
-||www.videos.jpegbb.com^$third-party
 ||image.jpegbb.com^$third-party
-||www.image.jpegbb.com^$third-party
 ||loveinvid.jpegbb.com^$third-party
-||www.loveinvid.jpegbb.com^$third-party
 ||loveinfile.jpegbb.com^$third-party
-||www.loveinfile.jpegbb.com^$third-party
 ||embed.jpegbb.com^$third-party
-||www.embed.jpegbb.com^$third-party
 ||stream.jpegbb.com^$third-party
-||www.stream.jpegbb.com^$third-party
 ||mail.jpegbb.com^$third-party
-||www.jpegbb.com^$third-party
 ||vvide0.com^$third-party
 ||businessintelligencearchitecture.jpegbb.com^$third-party
-||www.businessintelligencearchitecture.jpegbb.com^$third-party
 ||smallbusiness.jpegbb.com^$third-party
-||www.smallbusiness.jpegbb.com^$third-party
 ||server.jpegbb.com^$third-party
-||www.server.jpegbb.com^$third-party
 ||www3.jpegbb.com^$third-party
-||www.www3.jpegbb.com^$third-party
 ||www2.jpegbb.com^$third-party
-||www.www2.jpegbb.com^$third-party
 ||# > streamable.com^$third-party
 ||apps.streamable.com^$third-party
 ||data.streamable.com^$third-party
@@ -114,26 +95,18 @@
 ||publishers.streamable.com^$third-party
 ||bg-cdn.streamable.com^$third-party
 ||b-cdn.streamable.com^$third-party
-||www.streamable.com^$third-party
 ||cdn.streamable.com^$third-party
 ||changelog.streamable.com^$third-party
 ||blog.streamable.com^$third-party
 ||advertising.streamable.com^$third-party
 ||cdn-w-east.streamable.com^$third-party
 ||assets.streamable.com^$third-party
-||www.assets.streamable.com^$third-party
-||www.publishers.streamable.com^$third-party
-||www.try.streamable.com^$third-party
-||www.advertising.streamable.com^$third-party
 ||cdn-staging-media.streamable.com^$third-party
-||www.cdn-staging-media.streamable.com^$third-party
 ||cdn-staging.streamable.com^$third-party
-||www.cdn-staging.streamable.com^$third-party
 ||# > dood.pm doodstream.com^$third-party
 ||dood.pm^$third-party
 ||dood.wf^$third-party
 ||dooood.com^$third-party
-||www.doodstream.com^$third-party
 ||dood.so^$third-party
 ||ds2play.com^$third-party
 ||filelions.live^$third-party
@@ -148,17 +121,11 @@
 ||tracker.doodstream.com^$third-party
 ||gd-lb1.doodstream.com^$third-party
 ||gd.doodstream.com^$third-party
-||www.newsletter.doodstream.com^$third-party
 ||m.doodstream.com^$third-party
-||www.m.doodstream.com^$third-party
 ||dodbox.doodstream.com^$third-party
-||www.dodbox.doodstream.com^$third-party
 ||movies.doodstream.com^$third-party
-||www.movies.doodstream.com^$third-party
 ||gdrive.doodstream.com^$third-party
-||www.gdrive.doodstream.com^$third-party
 ||takedown.doodstream.com^$third-party
-||www.takedown.doodstream.com^$third-party
 ||# > imgbox.com^$third-party
 ||imgbox.com^$third-party
 ||# > imagebam.com^$third-party
@@ -179,25 +146,19 @@
 ||cache-4.sendvid.com^$third-party
 ||videos3-h.sendvid.com^$third-party
 ||webmail.sendvid.com^$third-party
-||www.sendvid.com^$third-party
 ||support.sendvid.com^$third-party
 ||# > goodjpe.com^$third-party
 ||goodjpe.com^$third-party
 ||live.goodjpe.com^$third-party
-||www.live.goodjpe.com^$third-party
 ||play.goodjpe.com^$third-party
-||www.play.goodjpe.com^$third-party
 ||losemp.goodjpe.com^$third-party
-||www.losemp.goodjpe.com^$third-party
 ||stream.goodjpe.com^$third-party
-||www.stream.goodjpe.com^$third-party
 ||cpanel.goodjpe.com^$third-party
 ||cpcalendars.goodjpe.com^$third-party
 ||cpcontacts.goodjpe.com^$third-party
 ||mail.goodjpe.com^$third-party
 ||webdisk.goodjpe.com^$third-party
 ||webmail.goodjpe.com^$third-party
-||www.goodjpe.com^$third-party
 ||# > sharejpg.com^$third-party
 ||autodiscover.sharejpg.com^$third-party
 ||cpanel.sharejpg.com^$third-party
@@ -207,22 +168,93 @@
 ||sharejpg.com^$third-party
 ||webdisk.sharejpg.com^$third-party
 ||webmail.sharejpg.com^$third-party
-||www.sharejpg.com^$third-party
 ||images.sharejpg.com^$third-party
-||www.images.sharejpg.com^$third-party
 ||mp4.sharejpg.com^$third-party
-||www.mp4.sharejpg.com^$third-party
 ||movie.sharejpg.com^$third-party
-||www.movie.sharejpg.com^$third-party
 ||blog.sharejpg.com^$third-party
-||www.blog.sharejpg.com^$third-party
 ||video.sharejpg.com^$third-party
-||www.video.sharejpg.com^$third-party
 ||upload.sharejpg.com^$third-party
-||www.upload.sharejpg.com^$third-party
 ||# > dood family^$third-party
 ||poop.com.co^$third-party
 ||doodss.pro^$third-party
 ||d000d.com^$third-party
 ||dood.is^$third-party
 ||dood.am^$third-party
+||# > filemoon.sx^$third-party
+||filemoon.sx^$third-party
+||# > voe.sx^$third-party
+||voe.sx^$third-party
+||# > streamsb.com^$third-party
+||streamsb.com^$third-party
+||# > streamhub.to^$third-party
+||streamhub.to^$third-party
+||# > streamvid.net^$third-party
+||streamvid.net^$third-party
+||# > vtube.to^$third-party
+||vtube.to^$third-party
+||# > wolfstream.tv^$third-party
+||wolfstream.tv^$third-party
+||# > fembed.com^$third-party
+||fembed.com^$third-party
+||# > mixdrop.co^$third-party
+||mixdrop.co^$third-party
+||# > uptostream.com^$third-party
+||uptostream.com^$third-party
+||# > upstream.to^$third-party
+||upstream.to^$third-party
+||# > keep2share.com^$third-party
+||keep2share.com^$third-party
+||# > k2s.cc^$third-party
+||k2s.cc^$third-party
+||# > 1fichier.com^$third-party
+||1fichier.com^$third-party
+||# > ok.ru (video hosting)^$third-party
+||ok.ru^$third-party
+||# > vidlox.me^$third-party
+||vidlox.me^$third-party
+||# > verystream.com^$third-party
+||verystream.com^$third-party
+||# > vidoza.net^$third-party
+||vidoza.net^$third-party
+||# > videobin.co^$third-party
+||videobin.co^$third-party
+||# > racaty.io^$third-party
+||racaty.io^$third-party
+||# > gofile.io^$third-party
+||gofile.io^$third-party
+||# > mega.nz^$third-party
+||mega.nz^$third-party
+||# > terabox.com^$third-party
+||terabox.com^$third-party
+||# > filetransfer.io^$third-party
+||filetransfer.io^$third-party
+||# > oshi.at^$third-party
+||oshi.at^$third-party
+||# > tmpfiles.org^$third-party
+||tmpfiles.org^$third-party
+||# > litterbox.catbox.moe^$third-party
+||litterbox.catbox.moe^$third-party
+||# > catbox.moe^$third-party
+||catbox.moe^$third-party
+||# > pixeldrain.com^$third-party
+||pixeldrain.com^$third-party
+||# > transfer.sh^$third-party
+||transfer.sh^$third-party
+||# > 0x0.st^$third-party
+||0x0.st^$third-party
+||# > file.io^$third-party
+||file.io^$third-party
+||# > bashupload.com^$third-party
+||bashupload.com^$third-party
+||# > uguu.se^$third-party
+||uguu.se^$third-party
+||# > rentry.co^$third-party
+||rentry.co^$third-party
+||# > paste.ee^$third-party
+||paste.ee^$third-party
+||# > pastebin.com^$third-party
+||pastebin.com^$third-party
+||# > dpaste.org^$third-party
+||dpaste.org^$third-party
+||# > hastebin.com^$third-party
+||hastebin.com^$third-party

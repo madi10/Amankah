@@ -62,3 +62,48 @@ payload:
   - DOMAIN-SUFFIX,kredinesia.id
   - DOMAIN-SUFFIX,kreditpro.id
   - DOMAIN-SUFFIX,solusi-ku.id
+  # > pinjol ilegal 2026 (OJK Satgas PASTI)
+  - DOMAIN-SUFFIX,uangcepat.id
+  - DOMAIN-SUFFIX,danacepat.id
+  - DOMAIN-SUFFIX,duithappy.id
+  - DOMAIN-SUFFIX,danaribu.id
+  - DOMAIN-SUFFIX,kreditrupiah.id
+  - DOMAIN-SUFFIX,pinjolkilat.id
+  - DOMAIN-SUFFIX,danamudah.id
+  - DOMAIN-SUFFIX,rupiahplus.id
+  - DOMAIN-SUFFIX,gocash.id
+  - DOMAIN-SUFFIX,rupiahkasih.id
+  - DOMAIN-SUFFIX,tunaikilat.id
+  - DOMAIN-SUFFIX,danadarurat.id
+  - DOMAIN-SUFFIX,yokoto.id
+  - DOMAIN-SUFFIX,abadidana.id
+  - DOMAIN-SUFFIX,danamutiara.id
+  - DOMAIN-SUFFIX,rupiahnomplok.id
+  - DOMAIN-SUFFIX,dearrupiah.id
+  - DOMAIN-SUFFIX,kreditberlian.id
+  - DOMAIN-SUFFIX,duitsayang.id
+  - DOMAIN-SUFFIX,danafix.id
+  - DOMAIN-SUFFIX,okp2p.id
+  - DOMAIN-SUFFIX,pinjamindo.id
+  - DOMAIN-SUFFIX,cantikdana.id
+  - DOMAIN-SUFFIX,kreditkilat.id
+  # > pinjol illegal apps
+  - DOMAIN-SUFFIX,chipapk.com
+  - DOMAIN-SUFFIX,apksos.com
+  - DOMAIN-SUFFIX,apkaio.com
+  - DOMAIN-SUFFIX,apktoko.net
+  - DOMAIN-SUFFIX,apklust.com
+  - DOMAIN-SUFFIX,apkresult.com
+  - DOMAIN-SUFFIX,9apps.com
+  - DOMAIN-SUFFIX,apkpure.com
+  - DOMAIN-SUFFIX,apkcombo.com
+  - DOMAIN-SUFFIX,ldplayer.net
+  # > fintech lending sites
+  - DOMAIN-SUFFIX,uangme.id
+  - DOMAIN-SUFFIX,pinjamyuk.co.id
+  - DOMAIN-SUFFIX,cashcepat.id
+  - DOMAIN-SUFFIX,danasyariah.id
+  - DOMAIN-SUFFIX,invoila.co.id
+  - DOMAIN-SUFFIX,lumbungdana.co.id
+  - DOMAIN-SUFFIX,modalrakyat.id
+  - DOMAIN-SUFFIX,pintek.id

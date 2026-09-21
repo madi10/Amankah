@@ -39,44 +39,25 @@ payload:
   - DOMAIN-SUFFIX,n0nt0n-gr4tis-xyzz.short.gy
   - DOMAIN-SUFFIX,jpegbb.com
   - DOMAIN-SUFFIX,imgs.jpegbb.com
-  - DOMAIN-SUFFIX,www.imgs.jpegbb.com
   - DOMAIN-SUFFIX,img.jpegbb.com
-  - DOMAIN-SUFFIX,www.img.jpegbb.com
   - DOMAIN-SUFFIX,play.jpegbb.com
-  - DOMAIN-SUFFIX,www.play.jpegbb.com
   - DOMAIN-SUFFIX,mp4.jpegbb.com
-  - DOMAIN-SUFFIX,www.mp4.jpegbb.com
   - DOMAIN-SUFFIX,plays.jpegbb.com
-  - DOMAIN-SUFFIX,www.plays.jpegbb.com
   - DOMAIN-SUFFIX,streams.jpegbb.com
-  - DOMAIN-SUFFIX,www.streams.jpegbb.com
   - DOMAIN-SUFFIX,tube.jpegbb.com
-  - DOMAIN-SUFFIX,www.tube.jpegbb.com
   - DOMAIN-SUFFIX,videos.jpegbb.com
-  - DOMAIN-SUFFIX,www.videos.jpegbb.com
   - DOMAIN-SUFFIX,image.jpegbb.com
-  - DOMAIN-SUFFIX,www.image.jpegbb.com
   - DOMAIN-SUFFIX,loveinvid.jpegbb.com
-  - DOMAIN-SUFFIX,www.loveinvid.jpegbb.com
   - DOMAIN-SUFFIX,loveinfile.jpegbb.com
-  - DOMAIN-SUFFIX,www.loveinfile.jpegbb.com
   - DOMAIN-SUFFIX,embed.jpegbb.com
-  - DOMAIN-SUFFIX,www.embed.jpegbb.com
   - DOMAIN-SUFFIX,stream.jpegbb.com
-  - DOMAIN-SUFFIX,www.stream.jpegbb.com
   - DOMAIN-SUFFIX,mail.jpegbb.com
-  - DOMAIN-SUFFIX,www.jpegbb.com
   - DOMAIN-SUFFIX,vvide0.com
   - DOMAIN-SUFFIX,businessintelligencearchitecture.jpegbb.com
-  - DOMAIN-SUFFIX,www.businessintelligencearchitecture.jpegbb.com
   - DOMAIN-SUFFIX,smallbusiness.jpegbb.com
-  - DOMAIN-SUFFIX,www.smallbusiness.jpegbb.com
   - DOMAIN-SUFFIX,server.jpegbb.com
-  - DOMAIN-SUFFIX,www.server.jpegbb.com
   - DOMAIN-SUFFIX,www3.jpegbb.com
-  - DOMAIN-SUFFIX,www.www3.jpegbb.com
   - DOMAIN-SUFFIX,www2.jpegbb.com
-  - DOMAIN-SUFFIX,www.www2.jpegbb.com
   - DOMAIN-SUFFIX,# > streamable.com
   - DOMAIN-SUFFIX,apps.streamable.com
   - DOMAIN-SUFFIX,data.streamable.com
@@ -114,26 +95,18 @@ payload:
   - DOMAIN-SUFFIX,publishers.streamable.com
   - DOMAIN-SUFFIX,bg-cdn.streamable.com
   - DOMAIN-SUFFIX,b-cdn.streamable.com
-  - DOMAIN-SUFFIX,www.streamable.com
   - DOMAIN-SUFFIX,cdn.streamable.com
   - DOMAIN-SUFFIX,changelog.streamable.com
   - DOMAIN-SUFFIX,blog.streamable.com
   - DOMAIN-SUFFIX,advertising.streamable.com
   - DOMAIN-SUFFIX,cdn-w-east.streamable.com
   - DOMAIN-SUFFIX,assets.streamable.com
-  - DOMAIN-SUFFIX,www.assets.streamable.com
-  - DOMAIN-SUFFIX,www.publishers.streamable.com
-  - DOMAIN-SUFFIX,www.try.streamable.com
-  - DOMAIN-SUFFIX,www.advertising.streamable.com
   - DOMAIN-SUFFIX,cdn-staging-media.streamable.com
-  - DOMAIN-SUFFIX,www.cdn-staging-media.streamable.com
   - DOMAIN-SUFFIX,cdn-staging.streamable.com
-  - DOMAIN-SUFFIX,www.cdn-staging.streamable.com
   - DOMAIN-SUFFIX,# > dood.pm doodstream.com
   - DOMAIN-SUFFIX,dood.pm
   - DOMAIN-SUFFIX,dood.wf
   - DOMAIN-SUFFIX,dooood.com
-  - DOMAIN-SUFFIX,www.doodstream.com
   - DOMAIN-SUFFIX,dood.so
   - DOMAIN-SUFFIX,ds2play.com
   - DOMAIN-SUFFIX,filelions.live
@@ -148,17 +121,11 @@ payload:
   - DOMAIN-SUFFIX,tracker.doodstream.com
   - DOMAIN-SUFFIX,gd-lb1.doodstream.com
   - DOMAIN-SUFFIX,gd.doodstream.com
-  - DOMAIN-SUFFIX,www.newsletter.doodstream.com
   - DOMAIN-SUFFIX,m.doodstream.com
-  - DOMAIN-SUFFIX,www.m.doodstream.com
   - DOMAIN-SUFFIX,dodbox.doodstream.com
-  - DOMAIN-SUFFIX,www.dodbox.doodstream.com
   - DOMAIN-SUFFIX,movies.doodstream.com
-  - DOMAIN-SUFFIX,www.movies.doodstream.com
   - DOMAIN-SUFFIX,gdrive.doodstream.com
-  - DOMAIN-SUFFIX,www.gdrive.doodstream.com
   - DOMAIN-SUFFIX,takedown.doodstream.com
-  - DOMAIN-SUFFIX,www.takedown.doodstream.com
   - DOMAIN-SUFFIX,# > imgbox.com
   - DOMAIN-SUFFIX,imgbox.com
   - DOMAIN-SUFFIX,# > imagebam.com
@@ -179,25 +146,19 @@ payload:
   - DOMAIN-SUFFIX,cache-4.sendvid.com
   - DOMAIN-SUFFIX,videos3-h.sendvid.com
   - DOMAIN-SUFFIX,webmail.sendvid.com
-  - DOMAIN-SUFFIX,www.sendvid.com
   - DOMAIN-SUFFIX,support.sendvid.com
   - DOMAIN-SUFFIX,# > goodjpe.com
   - DOMAIN-SUFFIX,goodjpe.com
   - DOMAIN-SUFFIX,live.goodjpe.com
-  - DOMAIN-SUFFIX,www.live.goodjpe.com
   - DOMAIN-SUFFIX,play.goodjpe.com
-  - DOMAIN-SUFFIX,www.play.goodjpe.com
   - DOMAIN-SUFFIX,losemp.goodjpe.com
-  - DOMAIN-SUFFIX,www.losemp.goodjpe.com
   - DOMAIN-SUFFIX,stream.goodjpe.com
-  - DOMAIN-SUFFIX,www.stream.goodjpe.com
   - DOMAIN-SUFFIX,cpanel.goodjpe.com
   - DOMAIN-SUFFIX,cpcalendars.goodjpe.com
   - DOMAIN-SUFFIX,cpcontacts.goodjpe.com
   - DOMAIN-SUFFIX,mail.goodjpe.com
   - DOMAIN-SUFFIX,webdisk.goodjpe.com
   - DOMAIN-SUFFIX,webmail.goodjpe.com
-  - DOMAIN-SUFFIX,www.goodjpe.com
   - DOMAIN-SUFFIX,# > sharejpg.com
   - DOMAIN-SUFFIX,autodiscover.sharejpg.com
   - DOMAIN-SUFFIX,cpanel.sharejpg.com
@@ -207,22 +168,93 @@ payload:
   - DOMAIN-SUFFIX,sharejpg.com
   - DOMAIN-SUFFIX,webdisk.sharejpg.com
   - DOMAIN-SUFFIX,webmail.sharejpg.com
-  - DOMAIN-SUFFIX,www.sharejpg.com
   - DOMAIN-SUFFIX,images.sharejpg.com
-  - DOMAIN-SUFFIX,www.images.sharejpg.com
   - DOMAIN-SUFFIX,mp4.sharejpg.com
-  - DOMAIN-SUFFIX,www.mp4.sharejpg.com
   - DOMAIN-SUFFIX,movie.sharejpg.com
-  - DOMAIN-SUFFIX,www.movie.sharejpg.com
   - DOMAIN-SUFFIX,blog.sharejpg.com
-  - DOMAIN-SUFFIX,www.blog.sharejpg.com
   - DOMAIN-SUFFIX,video.sharejpg.com
-  - DOMAIN-SUFFIX,www.video.sharejpg.com
   - DOMAIN-SUFFIX,upload.sharejpg.com
-  - DOMAIN-SUFFIX,www.upload.sharejpg.com
   - DOMAIN-SUFFIX,# > dood family
   - DOMAIN-SUFFIX,poop.com.co
   - DOMAIN-SUFFIX,doodss.pro
   - DOMAIN-SUFFIX,d000d.com
   - DOMAIN-SUFFIX,dood.is
   - DOMAIN-SUFFIX,dood.am
+  - DOMAIN-SUFFIX,# > filemoon.sx
+  - DOMAIN-SUFFIX,filemoon.sx
+  - DOMAIN-SUFFIX,# > voe.sx
+  - DOMAIN-SUFFIX,voe.sx
+  - DOMAIN-SUFFIX,# > streamsb.com
+  - DOMAIN-SUFFIX,streamsb.com
+  - DOMAIN-SUFFIX,# > streamhub.to
+  - DOMAIN-SUFFIX,streamhub.to
+  - DOMAIN-SUFFIX,# > streamvid.net
+  - DOMAIN-SUFFIX,streamvid.net
+  - DOMAIN-SUFFIX,# > vtube.to
+  - DOMAIN-SUFFIX,vtube.to
+  - DOMAIN-SUFFIX,# > wolfstream.tv
+  - DOMAIN-SUFFIX,wolfstream.tv
+  - DOMAIN-SUFFIX,# > fembed.com
+  - DOMAIN-SUFFIX,fembed.com
+  - DOMAIN-SUFFIX,# > mixdrop.co
+  - DOMAIN-SUFFIX,mixdrop.co
+  - DOMAIN-SUFFIX,# > uptostream.com
+  - DOMAIN-SUFFIX,uptostream.com
+  - DOMAIN-SUFFIX,# > upstream.to
+  - DOMAIN-SUFFIX,upstream.to
+  - DOMAIN-SUFFIX,# > keep2share.com
+  - DOMAIN-SUFFIX,keep2share.com
+  - DOMAIN-SUFFIX,# > k2s.cc
+  - DOMAIN-SUFFIX,k2s.cc
+  - DOMAIN-SUFFIX,# > 1fichier.com
+  - DOMAIN-SUFFIX,1fichier.com
+  - DOMAIN-SUFFIX,# > ok.ru (video hosting)
+  - DOMAIN-SUFFIX,ok.ru
+  - DOMAIN-SUFFIX,# > vidlox.me
+  - DOMAIN-SUFFIX,vidlox.me
+  - DOMAIN-SUFFIX,# > verystream.com
+  - DOMAIN-SUFFIX,verystream.com
+  - DOMAIN-SUFFIX,# > vidoza.net
+  - DOMAIN-SUFFIX,vidoza.net
+  - DOMAIN-SUFFIX,# > videobin.co
+  - DOMAIN-SUFFIX,videobin.co
+  - DOMAIN-SUFFIX,# > racaty.io
+  - DOMAIN-SUFFIX,racaty.io
+  - DOMAIN-SUFFIX,# > gofile.io
+  - DOMAIN-SUFFIX,gofile.io
+  - DOMAIN-SUFFIX,# > mega.nz
+  - DOMAIN-SUFFIX,mega.nz
+  - DOMAIN-SUFFIX,# > terabox.com
+  - DOMAIN-SUFFIX,terabox.com
+  - DOMAIN-SUFFIX,# > filetransfer.io
+  - DOMAIN-SUFFIX,filetransfer.io
+  - DOMAIN-SUFFIX,# > oshi.at
+  - DOMAIN-SUFFIX,oshi.at
+  - DOMAIN-SUFFIX,# > tmpfiles.org
+  - DOMAIN-SUFFIX,tmpfiles.org
+  - DOMAIN-SUFFIX,# > litterbox.catbox.moe
+  - DOMAIN-SUFFIX,litterbox.catbox.moe
+  - DOMAIN-SUFFIX,# > catbox.moe
+  - DOMAIN-SUFFIX,catbox.moe
+  - DOMAIN-SUFFIX,# > pixeldrain.com
+  - DOMAIN-SUFFIX,pixeldrain.com
+  - DOMAIN-SUFFIX,# > transfer.sh
+  - DOMAIN-SUFFIX,transfer.sh
+  - DOMAIN-SUFFIX,# > 0x0.st
+  - DOMAIN-SUFFIX,0x0.st
+  - DOMAIN-SUFFIX,# > file.io
+  - DOMAIN-SUFFIX,file.io
+  - DOMAIN-SUFFIX,# > bashupload.com
+  - DOMAIN-SUFFIX,bashupload.com
+  - DOMAIN-SUFFIX,# > uguu.se
+  - DOMAIN-SUFFIX,uguu.se
+  - DOMAIN-SUFFIX,# > rentry.co
+  - DOMAIN-SUFFIX,rentry.co
+  - DOMAIN-SUFFIX,# > paste.ee
+  - DOMAIN-SUFFIX,paste.ee
+  - DOMAIN-SUFFIX,# > pastebin.com
+  - DOMAIN-SUFFIX,pastebin.com
+  - DOMAIN-SUFFIX,# > dpaste.org
+  - DOMAIN-SUFFIX,dpaste.org
+  - DOMAIN-SUFFIX,# > hastebin.com
+  - DOMAIN-SUFFIX,hastebin.com
