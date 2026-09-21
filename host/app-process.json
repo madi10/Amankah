@@ -2,7 +2,8 @@
   "version": 1,
   "rules": [
     {
-      "process": [
+      "domain_suffix": [
+        "# > gambling apps",
         "com.super88bet.super77_app",
         "com.oxplay.nusagg",
         "com.id53126.nt3126bg",
@@ -59,7 +60,6 @@
         "com.pragmaticplay.live",
         "com.pragmaticplay.casino",
         "com.pgsoft.game",
-        "com.habanero.game",
         "com.microgaming.game",
         "com.joker123.game",
         "com.spadegaming.game",
@@ -79,6 +79,7 @@
         "com.maxbet.sports",
         "com.oriental.game",
         "com.allbet.game",
+        "# > porn/bokep apps",
         "com.simontok.app",
         "com.videobokep.app",
         "com.nontonbokep.app",
@@ -110,6 +111,7 @@
         "com.myfreecams.app",
         "com.streamate.app",
         "com.amateur.tv.app",
+        "# > dating apps",
         "com.tinder.app",
         "com.bumble.app",
         "com.badoo.app",
@@ -133,6 +135,7 @@
         "com.jackd.app",
         "com.tantan.app",
         "com.momo.app",
+        "# > webproxy apps",
         "com.vpngate.app",
         "com.vpn.unlimited.app",
         "com.hotspotshield.app",
@@ -158,6 +161,7 @@
         "com.sophos.app",
         "com.escan.app",
         "com.gdata.app",
+        "# > shorturl/redirect apps",
         "com.bitly.app",
         "com.tinyurl.app",
         "com.shorturl.app",

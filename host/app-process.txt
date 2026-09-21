@@ -55,7 +55,6 @@ com.pragmaticplay.slot
 com.pragmaticplay.live
 com.pragmaticplay.casino
 com.pgsoft.game
-com.habanero.game
 com.microgaming.game
 com.joker123.game
 com.spadegaming.game
