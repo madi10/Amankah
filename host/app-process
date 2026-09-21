@@ -1,197 +1,171 @@
 #list host
-0.0.0.0 # > gambling apps
-0.0.0.0 com.super88bet.super77_app
-0.0.0.0 com.oxplay.nusagg
-0.0.0.0 com.id53126.nt3126bg
-0.0.0.0 com.winslot88.projectlukas
-0.0.0.0 com.fafafa.gacor
-0.0.0.0 com.slot.pragmatic
-0.0.0.0 com.slot.pgsoft
-0.0.0.0 com.habanero.slot
-0.0.0.0 com.microgaming.slot
-0.0.0.0 com.joker.slot
-0.0.0.0 com.spadegaming.slot
-0.0.0.0 com.cq9.slot
-0.0.0.0 com.playstar.slot
-0.0.0.0 com.yggdrasil.slot
-0.0.0.0 com.isoftbet.slot
-0.0.0.0 com.playngo.slot
-0.0.0.0 com.redtiger.slot
-0.0.0.0 com.blueprint.slot
-0.0.0.0 com.nolimitcity.slot
-0.0.0.0 com.relax.slot
-0.0.0.0 com.push.slot
-0.0.0.0 com.thunderkick.slot
-0.0.0.0 com.elk.slot
-0.0.0.0 com.bigtimegaming.slot
-0.0.0.0 com.wms.slot
-0.0.0.0 com.igt.slot
-0.0.0.0 com.bally.slot
-0.0.0.0 com.aristocrat.slot
-0.0.0.0 com.novomatic.slot
-0.0.0.0 com.evolution.casino
-0.0.0.0 com.ezugi.casino
-0.0.0.0 com.sa gaming.casino
-0.0.0.0 com.wm.casino
-0.0.0.0 com.allbet.casino
-0.0.0.0 com.sexybaccarat.casino
-0.0.0.0 com.prettygaming.casino
-0.0.0.0 com.dreamgaming.casino
-0.0.0.0 com.pgsoft.casino
-0.0.0.0 com.joker.casino
-0.0.0.0 com.habanero.casino
-0.0.0.0 com.microgaming.casino
-0.0.0.0 com.playtech.casino
-0.0.0.0 com.netent.casino
-0.0.0.0 com.btg.slot
-0.0.0.0 com.redrake.slot
-0.0.0.0 com.booming.slot
-0.0.0.0 com.fugaso.slot
-0.0.0.0 com.gameart.slot
-0.0.0.0 com.mascot.slot
-0.0.0.0 com.spinomenal.slot
-0.0.0.0 com.endorphina.slot
-0.0.0.0 com.wazdan.slot
-0.0.0.0 com.pragmaticplay.slot
-0.0.0.0 com.pragmaticplay.live
-0.0.0.0 com.pragmaticplay.casino
-0.0.0.0 com.pgsoft.game
-0.0.0.0 com.habanero.game
-0.0.0.0 com.microgaming.game
-0.0.0.0 com.joker123.game
-0.0.0.0 com.spadegaming.game
-0.0.0.0 com.cq9.game
-0.0.0.0 com.playstar.game
-0.0.0.0 com.kingmaker.game
-0.0.0.0 com.fastspin.game
-0.0.0.0 com.jili.game
-0.0.0.0 com.mancala.game
-0.0.0.0 com.ucs.game
-0.0.0.0 com.ams.game
-0.0.0.0 com.bti.sports
-0.0.0.0 com.saba.sports
-0.0.0.0 com.cmd368.sports
-0.0.0.0 com.sbo.sports
-0.0.0.0 com.ibcbet.sports
-0.0.0.0 com.maxbet.sports
-0.0.0.0 com.oriental.game
-0.0.0.0 com.allbet.game
-0.0.0.0 # > porn/bokep apps
-0.0.0.0 com.simontok.app
-0.0.0.0 com.simontok.apk
-0.0.0.0 com.simontok.android
-0.0.0.0 com.simontok.vip
-0.0.0.0 com.videobokep.app
-0.0.0.0 com.nontonbokep.app
-0.0.0.0 com.bokepindonesia.app
-0.0.0.0 com.bokepviral.app
-0.0.0.0 com.bokephd.app
-0.0.0.0 com.bokepstream.app
-0.0.0.0 com.bokeplay.app
-0.0.0.0 com.javindohd.app
-0.0.0.0 com.javfull.app
-0.0.0.0 com.javhd.app
-0.0.0.0 com.javmost.app
-0.0.0.0 com.javlibrary.app
-0.0.0.0 com.javdb.app
-0.0.0.0 com.nhentai.app
-0.0.0.0 com.hanime.app
-0.0.0.0 com.hentaihaven.app
-0.0.0.0 com.f95zone.app
-0.0.0.0 com.onlyfans.app
-0.0.0.0 com.fansly.app
-0.0.0.0 com.manyvids.app
-0.0.0.0 com.chaturbate.app
-0.0.0.0 com.stripchat.app
-0.0.0.0 com.livejasmin.app
-0.0.0.0 com.camsoda.app
-0.0.0.0 com.bongacams.app
-0.0.0.0 com.flirt4free.app
-0.0.0.0 com.cam4.app
-0.0.0.0 com.myfreecams.app
-0.0.0.0 com.streamate.app
-0.0.0.0 com.amateur.tv.app
-0.0.0.0 # > dating apps
-0.0.0.0 com.tinder.app
-0.0.0.0 com.tinder.android
-0.0.0.0 com.bumble.app
-0.0.0.0 com.bumble.android
-0.0.0.0 com.badoo.app
-0.0.0.0 com.badoo.android
-0.0.0.0 com.okcupid.app
-0.0.0.0 com.okcupid.android
-0.0.0.0 com.match.app
-0.0.0.0 com.match.android
-0.0.0.0 com.pof.app
-0.0.0.0 com.pof.android
-0.0.0.0 com.happn.app
-0.0.0.0 com.happn.android
-0.0.0.0 com.hinge.app
-0.0.0.0 com.hinge.android
-0.0.0.0 com.coffeemeetsbagel.app
-0.0.0.0 com.cmb.app
-0.0.0.0 com.lovoo.app
-0.0.0.0 com.lovoo.android
-0.0.0.0 com.meetme.app
-0.0.0.0 com.meetme.android
-0.0.0.0 com.skout.app
-0.0.0.0 com.skout.android
-0.0.0.0 com.zoosk.app
-0.0.0.0 com.zoosk.android
-0.0.0.0 com.tagged.app
-0.0.0.0 com.tagged.android
-0.0.0.0 com.grindr.app
-0.0.0.0 com.grindr.android
-0.0.0.0 com.hornet.app
-0.0.0.0 com.hornet.android
-0.0.0.0 com.her.app
-0.0.0.0 com.her.android
-0.0.0.0 com.scruff.app
-0.0.0.0 com.scruff.android
-0.0.0.0 com.planetromeo.app
-0.0.0.0 com.planetromeo.android
-0.0.0.0 com.blued.app
-0.0.0.0 com.blued.android
-0.0.0.0 com.jackd.app
-0.0.0.0 com.jackd.android
-0.0.0.0 com.tantan.app
-0.0.0.0 com.tantan.android
-0.0.0.0 com.momo.app
-0.0.0.0 com.momo.android
-0.0.0.0 # > webproxy apps
-0.0.0.0 com.vpngate.app
-0.0.0.0 com.vpn.unlimited.app
-0.0.0.0 com.hotspotshield.app
-0.0.0.0 com.windscribe.app
-0.0.0.0 com.tunnelbear.app
-0.0.0.0 com.nordvpn.app
-0.0.0.0 com.expressvpn.app
-0.0.0.0 com.surfshark.app
-0.0.0.0 com.protonvpn.app
-0.0.0.0 com.cyberghost.app
-0.0.0.0 com.ipvanish.app
-0.0.0.0 com.vyprvpn.app
-0.0.0.0 com.hidemyass.app
-0.0.0.0 com.privateinternetaccess.app
-0.0.0.0 com.avast.app
-0.0.0.0 com.kaspersky.app
-0.0.0.0 com.bitdefender.app
-0.0.0.0 com.norton.app
-0.0.0.0 com.mcafee.app
-0.0.0.0 com.avira.app
-0.0.0.0 com.zonealarm.app
-0.0.0.0 com.f-secure.app
-0.0.0.0 com.sophos.app
-0.0.0.0 com.escan.app
-0.0.0.0 com.gdata.app
-0.0.0.0 # > shorturl/redirect apps
-0.0.0.0 com.bitly.app
-0.0.0.0 com.tinyurl.app
-0.0.0.0 com.shorturl.app
-0.0.0.0 com.shorte.st.app
-0.0.0.0 com.adf.ly.app
-0.0.0.0 com.ouo.io.app
-0.0.0.0 com.linkbucks.app
-0.0.0.0 com.acewebx.app
-0.0.0.0 com.ojol.link.app
-0.0.0.0 com.safelink.app
+# > gambling apps
+PROCESS-NAME,com.super88bet.super77_app
+PROCESS-NAME,com.oxplay.nusagg
+PROCESS-NAME,com.id53126.nt3126bg
+PROCESS-NAME,com.winslot88.projectlukas
+PROCESS-NAME,com.slot.fafafa.gacor
+PROCESS-NAME,com.pragmaticplay.games
+PROCESS-NAME,com.pgsoft.pocket
+PROCESS-NAME,com.habanero.game
+PROCESS-NAME,com.microgaming.client
+PROCESS-NAME,com.joker123.slot
+PROCESS-NAME,com.spadegaming.client
+PROCESS-NAME,com.cq9.slot
+PROCESS-NAME,com.playstar.slot
+PROCESS-NAME,com.yggdrasil.game
+PROCESS-NAME,com.isoftbet.game
+PROCESS-NAME,com.playn.go
+PROCESS-NAME,com.redtiger.game
+PROCESS-NAME,com.blueprintgaming.slot
+PROCESS-NAME,com.nolimitcity.slot
+PROCESS-NAME,com.relaxgaming.slot
+PROCESS-NAME,com.pushgaming.slot
+PROCESS-NAME,com.thunderkick.slot
+PROCESS-NAME,com.elkgaming.slot
+PROCESS-NAME,com.bigtimegaming.slot
+PROCESS-NAME,com.wms.slot
+PROCESS-NAME,com.igt.slot
+PROCESS-NAME,com.ballyslot.slot
+PROCESS-NAME,com.aristocrat.slot
+PROCESS-NAME,com.novomatic.slot
+PROCESS-NAME,com.evolutiongaming.live
+PROCESS-NAME,com.ezugi.live
+PROCESS-NAME,com.sagaming.casino
+PROCESS-NAME,com.wmcasino.live
+PROCESS-NAME,com.allbet.casino
+PROCESS-NAME,com.sexybaccarat.casino
+PROCESS-NAME,com.prettygaming.casino
+PROCESS-NAME,com.dreamgaming.casino
+PROCESS-NAME,com.pgsoft.casino
+PROCESS-NAME,com.joker.casino
+PROCESS-NAME,com.habanero.casino
+PROCESS-NAME,com.microgaming.casino
+PROCESS-NAME,com.playtech.casino
+PROCESS-NAME,com.netent.casino
+PROCESS-NAME,com.btg.slot
+PROCESS-NAME,com.redrake.slot
+PROCESS-NAME,com.booming.slot
+PROCESS-NAME,com.fugaso.slot
+PROCESS-NAME,com.gameart.slot
+PROCESS-NAME,com.mascotgaming.slot
+PROCESS-NAME,com.spinomenal.slot
+PROCESS-NAME,com.endorphina.slot
+PROCESS-NAME,com.wazdan.slot
+PROCESS-NAME,com.pragmaticplay.slot
+PROCESS-NAME,com.pragmaticplay.live
+PROCESS-NAME,com.pragmaticplay.casino
+PROCESS-NAME,com.pgsoft.game
+PROCESS-NAME,com.habanero.game
+PROCESS-NAME,com.microgaming.game
+PROCESS-NAME,com.joker123.game
+PROCESS-NAME,com.spadegaming.game
+PROCESS-NAME,com.cq9.game
+PROCESS-NAME,com.playstar.game
+PROCESS-NAME,com.kingmaker.game
+PROCESS-NAME,com.fastspin.game
+PROCESS-NAME,com.jili.game
+PROCESS-NAME,com.mancala.game
+PROCESS-NAME,com.ucs.game
+PROCESS-NAME,com.ams.game
+PROCESS-NAME,com.bti.sports
+PROCESS-NAME,com.saba.sports
+PROCESS-NAME,com.cmd368.sports
+PROCESS-NAME,com.sbo.sports
+PROCESS-NAME,com.ibcbet.sports
+PROCESS-NAME,com.maxbet.sports
+PROCESS-NAME,com.oriental.game
+PROCESS-NAME,com.allbet.game
+# > porn/bokep apps
+PROCESS-NAME,com.simontok.app
+PROCESS-NAME,com.videobokep.app
+PROCESS-NAME,com.nontonbokep.app
+PROCESS-NAME,com.bokepindonesia.app
+PROCESS-NAME,com.bokepviral.app
+PROCESS-NAME,com.bokephd.app
+PROCESS-NAME,com.bokepstream.app
+PROCESS-NAME,com.bokeplay.app
+PROCESS-NAME,com.javindohd.app
+PROCESS-NAME,com.javfull.app
+PROCESS-NAME,com.javhd.app
+PROCESS-NAME,com.javmost.app
+PROCESS-NAME,com.javlibrary.app
+PROCESS-NAME,com.javdb.app
+PROCESS-NAME,com.nhentai.app
+PROCESS-NAME,com.hanime.app
+PROCESS-NAME,com.hentaihaven.app
+PROCESS-NAME,com.f95zone.app
+PROCESS-NAME,com.onlyfans.app
+PROCESS-NAME,com.fansly.app
+PROCESS-NAME,com.manyvids.app
+PROCESS-NAME,com.chaturbate.app
+PROCESS-NAME,com.stripchat.app
+PROCESS-NAME,com.livejasmin.app
+PROCESS-NAME,com.camsoda.app
+PROCESS-NAME,com.bongacams.app
+PROCESS-NAME,com.flirt4free.app
+PROCESS-NAME,com.cam4.app
+PROCESS-NAME,com.myfreecams.app
+PROCESS-NAME,com.streamate.app
+PROCESS-NAME,com.amateur.tv.app
+# > dating apps
+PROCESS-NAME,com.tinder.app
+PROCESS-NAME,com.bumble.app
+PROCESS-NAME,com.badoo.app
+PROCESS-NAME,com.okcupid.app
+PROCESS-NAME,com.match.app
+PROCESS-NAME,com.pof.app
+PROCESS-NAME,com.happn.app
+PROCESS-NAME,com.hinge.app
+PROCESS-NAME,com.coffeemeetsbagel.app
+PROCESS-NAME,com.lovoo.app
+PROCESS-NAME,com.meetme.app
+PROCESS-NAME,com.skout.app
+PROCESS-NAME,com.zoosk.app
+PROCESS-NAME,com.tagged.app
+PROCESS-NAME,com.grindr.app
+PROCESS-NAME,com.hornet.app
+PROCESS-NAME,com.her.app
+PROCESS-NAME,com.scruff.app
+PROCESS-NAME,com.planetromeo.app
+PROCESS-NAME,com.blued.app
+PROCESS-NAME,com.jackd.app
+PROCESS-NAME,com.tantan.app
+PROCESS-NAME,com.momo.app
+# > webproxy apps
+PROCESS-NAME,com.vpngate.app
+PROCESS-NAME,com.vpn.unlimited.app
+PROCESS-NAME,com.hotspotshield.app
+PROCESS-NAME,com.windscribe.app
+PROCESS-NAME,com.tunnelbear.app
+PROCESS-NAME,com.nordvpn.app
+PROCESS-NAME,com.expressvpn.app
+PROCESS-NAME,com.surfshark.app
+PROCESS-NAME,com.protonvpn.app
+PROCESS-NAME,com.cyberghost.app
+PROCESS-NAME,com.ipvanish.app
+PROCESS-NAME,com.vyprvpn.app
+PROCESS-NAME,com.hidemyass.app
+PROCESS-NAME,com.privateinternetaccess.app
+PROCESS-NAME,com.avast.app
+PROCESS-NAME,com.kaspersky.app
+PROCESS-NAME,com.bitdefender.app
+PROCESS-NAME,com.norton.app
+PROCESS-NAME,com.mcafee.app
+PROCESS-NAME,com.avira.app
+PROCESS-NAME,com.zonealarm.app
+PROCESS-NAME,com.fsecure.app
+PROCESS-NAME,com.sophos.app
+PROCESS-NAME,com.escan.app
+PROCESS-NAME,com.gdata.app
+# > shorturl/redirect apps
+PROCESS-NAME,com.bitly.app
+PROCESS-NAME,com.tinyurl.app
+PROCESS-NAME,com.shorturl.app
+PROCESS-NAME,com.shorte.st.app
+PROCESS-NAME,com.adfly.app
+PROCESS-NAME,com.ouo.io.app
+PROCESS-NAME,com.linkbucks.app
+PROCESS-NAME,com.acewebx.app
+PROCESS-NAME,com.ojol.link.app
+PROCESS-NAME,com.safelink.app
